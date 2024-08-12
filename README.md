@@ -17,6 +17,7 @@
 - [Matemáticas experimentales: aplicación de derivadas en caso médico](https://github.com/eduardoriverosq/derivadatumor):Ejemplo inicial de uso de cáculo de derivadas para determinar síntomas de tumor .
 - [Uso de LLM Bert en detección de síntomas de esquizofrenia](https://github.com/eduardoriverosq/esquizofrenia): Extracto de código para entender funcionamiento de modelo de síntoma de esquizofrenia en Bert.
 - [AlfacenturionCoin](https://github.com/eduardoriverosq/alfacenturioncoin): Prototipo de criptomoneda escrito en solidity que emula la primera moneda de la galaxia alfacentauri.
+- [Finetune para detectar síntomas de cáncer de mamas](https://github.com/eduardoriverosq/cancerdemamas-blob-main-cancerdemamas.ipynb):Finetune para detectar síntomas de cáncer de mamas usando modelo Davinvi de Openai, python, gradio y huggingface. El uso de la linguistica es central, porque en el dataset de entrenamiento se insertaron frases que dicen quienes tienen síntomas para luego ser entrenados y determinar en una calificación binaria la respuesta del síntoma.  
 
 ## 🌐 **Redes Sociales**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eduardoriveros)
