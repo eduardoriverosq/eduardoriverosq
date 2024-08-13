@@ -1,6 +1,6 @@
 # 💻 **[Eduardo Riveros Quiroz]** 👋
 
-![Banner](https://media.giphy.com/media/sRGDyT4PcjP7W2sWsf/giphy.gif?cid=ecf05e47h6p6mxvpyfr4004tbiwfyqe59f1ook7mipc4xrnc&ep=v1_gifs_search&rid=giphy.gif&ct=g)  <!-- Reemplaza el enlace con la URL de tu imagen de banner -->
+![Banner](https://github.com/eduardoriverosq/video/blob/main/video.gif)  <!-- Reemplaza el enlace con la URL de tu imagen de banner -->
 
 ## Sobre mí
 ¡Hola! Soy Eduardo Riveros Quiroz, analista programador y periodista con experiencia en  python, java, human on the loop, RLHF, AI trainer, linguistica computacional, entrenamiento de LLM. Me encanta trabajar en proyectos insertados en el mundo de la innovación  y aprender nuevas tecnologías.
