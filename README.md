@@ -3,13 +3,13 @@
 ![Banner](https://media.giphy.com/media/sRGDyT4PcjP7W2sWsf/giphy.gif?cid=ecf05e47h6p6mxvpyfr4004tbiwfyqe59f1ook7mipc4xrnc&ep=v1_gifs_search&rid=giphy.gif&ct=g)  <!-- Reemplaza el enlace con la URL de tu imagen de banner -->
 
 ## Sobre mí
-¡Hola! Soy [Eduardo Riveros Quiroz], analista programador y periodista con experiencia en [ python, java, human on the loop, RLHF, AI trainer, linguistica computacional, entrenamiento de LLM]. Me encanta trabajar en proyectos insertados en el mundo de la innovación  y aprender nuevas tecnologías.
+¡Hola! Soy Eduardo Riveros Quiroz, analista programador y periodista con experiencia en  python, java, human on the loop, RLHF, AI trainer, linguistica computacional, entrenamiento de LLM. Me encanta trabajar en proyectos insertados en el mundo de la innovación  y aprender nuevas tecnologías.
 
-- 🔭 Actualmente estoy trabajando en: [Entrenamiento de modelos de inteligencia artificial]
+- 🔭 Actualmente estoy trabajando en: Entrenamiento de modelos de inteligencia artificial
 - 🌱 Actualmente estoy aprendiendo: [Estadística en la linguistica]
-- 💬 Pregúntame sobre: [Como combinar la informática e ingeniería con el muno de las ciencias sociales]
-- 📫 Cómo contactarme: [www.linkedin.com/in/eduardoriverosq]
-- ⚡ Fun fact: [Entreno ciclismo de montaña y tengo formación universitaria en el campo de la ingeniería y ciencias sociales]
+- 💬 Pregúntame sobre: Como combinar la informática e ingeniería con el muno de las ciencias sociales.
+- 📫 Cómo contactarme: www.linkedin.com/in/eduardoriverosq
+- ⚡ Fun fact: Entreno ciclismo de montaña y tengo formación universitaria en el campo de la ingeniería y ciencias sociales.
 
 
 ## 📂 **Proyectos Destacados**
